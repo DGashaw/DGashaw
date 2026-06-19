@@ -1,11 +1,21 @@
-- 👋 Hi, I’m Daniel Gashaw
-- - 👀 Desktop, web and server application development. I am also huge fan of data science and big data
-- 🌱 I’m a second year computer scinece student at Ryerson University heading to my third year.
-- 💞️ I’m looking to collaborate on data mining techniques, application and visualization process as well as the development for desktop, web and server applications.
-- 📫 nigussiedanieltoronto@gmail.com, daniel.gashaw@ryerson.ca
+# 👋 Daniel Gashaw | Full-Stack & Data Application Developer
 
-<!---
-DGashaw/DGashaw is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+> Bridging the gap between robust application development and insightful data science to build functional, intelligent solutions.
 
+## 🚀 My Focus
+I specialize in developing end-to-end solutions, from designing server-side APIs and building responsive frontends to implementing effective data mining and visualization techniques using Python and R.
+
+## 🛠️ Technical Stack
+<!-- Use Shields.io for beautiful badges -->
+[![Python](https://img.shields.io/badge/Python-Py%C3%A9-3776AB?style=for-the-badge&logo=python)](https://www.python.org/)
+[![Frontend](https://img.shields.io/badge/React-F4433E?style=for-the-badge&logo=react)](https://reactjs.org/)
+[![Backend](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=nodedotjs)](https://nodejs.org/)
+[![Data Stack](https://img.shields.io/badge/Data%20Science-Pandas%20|%20R-FF9900?style=for-the-badge&logo=pandas)](https://pandas.pydata.org/)
+[![Database](https://img.shields.io/badge/SQL-MySQL-098892?style=for-the-badge&logo=mysql)](https://www.mysql.com/)
+[![DevOps](https://img.shields.io/badge/Docker-33A02C?style=for-the-badge&logo=docker)](https://www.docker.com/)
+
+## 📂 Featured Projects
+<!-- Link these to your best, most detailed repository READMEs -->
+*   **[Project Name 1]:** Full-Stack Inventory Management System (React + Node.js + MongoDB)
+    [🔗 View Repo]
+*   **
