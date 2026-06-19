@@ -16,6 +16,6 @@ I specialize in developing end-to-end solutions, from designing server-side APIs
 
 ## 📂 Featured Projects
 <!-- Link these to your best, most detailed repository READMEs -->
-*   **[Project Name 1]:** Full-Stack Inventory Management System (React + Node.js + MongoDB)
-    [🔗 View Repo]
+*   **[Smart Inventory System]:** Full-Stack Inventory Management System (React + Node.js + MongoDB)
+    [🔗 https://github.com/DGashaw/smart_inventory_system.git]
 *   **
